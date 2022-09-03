@@ -90,44 +90,16 @@ nav ul li {
  
 }
 
-.search-engine-optimization img {
+.benefit-focus img {
     max-height: 200px;
-    margin-right: 20px
+    /*margin-right: 20px;*/
 }
 
-.search-engine-optimization h2 {
+.benefit-focus h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.image-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.image-right {
-    float: right;
-    margin-left: 25px;
-}
 
  /* END OF LEFT ARTICLE CONTENT */
 
