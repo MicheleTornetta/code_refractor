@@ -80,7 +80,7 @@ The following image shows the web application's appearance and functionality:
 
 Follow these instructions to create your project and deploy it to GitHub Pages:
 
-1. Create a new repository on your GitHub account and clone it to your computer.
+1. DONE -- Create a new repository on your GitHub account and clone it to your computer.
 
 2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
 
