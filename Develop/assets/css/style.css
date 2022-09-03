@@ -70,27 +70,80 @@ nav ul li {
 
  /*END TOP IMAGE */ 
 
- 
 
- /* LEFT CONTENT */
+
+ /* LEFT ARTICLE CONTENT */
   
  .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-.float-left {
+
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.image-left {
     float: left;
     margin-right: 25px;
 }
 
-
-.float-right {
+.image-right {
     float: right;
     margin-left: 25px;
 }
 
- /* END OF LEFT CONTENT */
+ /* END OF LEFT ARTICLE CONTENT */
+
+ /* START OF ASIDE BENEFITS */
 
 .benefits {
     margin-right: 20px;
@@ -150,57 +203,17 @@ nav ul li {
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
 
-.online-reputation-management img {
-    max-height: 200px;
-}
 
-.social-media-marketing img {
-    max-height: 200px;
-}
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* END OF ASIDE BENEFITS */
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
+/* START OF FOOTER */
 .footer {
     padding: 30px;
     clear: both;
@@ -211,3 +224,5 @@ nav ul li {
 .footer h2 {
     font-size: 20px;
 }
+
+/* END OF FOOTER */
