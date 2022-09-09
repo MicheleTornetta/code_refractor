@@ -27,4 +27,4 @@ Then I find it is descriptive
 
 Please see the following image showing the application's appearance and functionality:  
 
-![The Horiseon webpage has a navigation bar that will allow you to navigate easily to areas of interest such as SEO, online reputation management, and social media marketing.  There is also a right side-bar that discusses lead generation, brand awareness and managing your costs  .](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage has a navigation bar that will allow you to navigate easily to areas of interest such as SEO, online reputation management, and social media marketing.  There is also a right side-bar that discusses lead generation, brand awareness and managing your costs  .](./assets/images/horiseon-sample-page.png)
