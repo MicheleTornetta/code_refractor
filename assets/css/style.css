@@ -82,13 +82,12 @@ main {
  .content {
     display: inline-block;
     margin-left: 20px;
-    
 }
 
 .benefit-focus {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    min-height: 300px;
     background-color: #0072bb;
     color: #ffffff;
     display: flex; 
@@ -127,6 +126,7 @@ main {
 .benefit-type {
     margin-bottom: 32px;
     color: #ffffff;
+    min-width: 250px;
 }
 
 
